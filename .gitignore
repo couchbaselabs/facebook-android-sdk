@@ -15,3 +15,10 @@ facebook/tests/assets/config.json
 .idea/workspace.xml
 .idea/dictionaries/
 .idea/inspectionProfiles/
+
+/.idea/libraries/support_v4_13_0_0.xml
+/.idea/gradle.xml
+/facebook-android-sdk.iml
+/facebook/facebook.iml
+/facebook/build/
+/.gradle/
